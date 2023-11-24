@@ -141,3 +141,12 @@ button:hover{
 .page-content > .text{
     font-size: 15px;
 }
+
+@media(max-width:667px){
+    .container{
+        width: 90%;        
+    }   
+    .thanks-page{
+        width: 100%;
+    }
+}
